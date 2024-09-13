@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @brynathn
-- 👀 I’m interested in website developer
-- 🌱 I’m currently learning HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on Startup internship
-- 📫 Email : bryan.nathaniel73@gmail.com
+# 👋 Hello, World! I'm **Bryan Nathaniel**
 
-<!---
-brynathn/brynathn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Currently pursuing a degree in **Information Technology** at Universitas Bunda Mulia.  
+🚀 Aspiring to become a **Professional Software Engineer** with a passion for technology and innovation.  
+📚 Currently learning through **Bangkit** by Dicoding Indonesia to sharpen my skills and knowledge.
+
+💻 I love coding, exploring new technologies, and contributing to exciting projects. I’m always eager to connect with like-minded individuals and professionals in the tech industry.
+
+🌟 Feel free to check out my journey on [LinkedIn](https://www.linkedin.com/in/brynathn/)! Let’s connect and build something awesome together!
